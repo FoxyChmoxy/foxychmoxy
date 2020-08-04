@@ -1,16 +1,21 @@
-### Hi there 👋
+# Almas Zaurbekov
 
-<!--
-**FoxyChmoxy/foxychmoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 this is a GitHub account of Almas Zaurbekov.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **[Epam Systems Inc](https://github.com/epam)** and **[Microsoft](https://github.com/microsoft)**
+- 🌱 I’m currently learning **Docker**, **ML** and **Angular**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may find me in other places:
+
+* [Instagram](https://www.instagram.com/foxychmoxy/)
+* [LinkedIn](https://www.linkedin.com/in/foxychmoxy/)
+
+Sometimes I write articles:
+
+* [Personal blog](https://foxyblog.kz/)
+* [Tech blog](http://teletype.in/@foxychmoxy.it)
+
+Some interesting current projects:
+
+* [Foxers](https://github.com/FoxyChmoxy/foxers)
+* [EBS](https://github.com/FoxyChmoxy/ebs)
