@@ -2,7 +2,7 @@
 
 Hi there 👋 this is a GitHub account of Almas Zaurbekov.
 
-- 🔭 I’m currently working on **[Epam Systems Inc](https://github.com/epam)** and **[Microsoft](https://github.com/microsoft)**
+- 🔭 I’m currently working for **[Epam Systems Inc](https://github.com/epam)** and **[Microsoft](https://github.com/microsoft)**
 - 🐈 I mostly prefer to work with `.NET Core` + `Angular` + `MS SQL Server`
 - 🦆 But I don't mind to work with `Python` + `Vue` + `Mongo`
 
