@@ -2,8 +2,6 @@
 
 Hi there 👋 this is a GitHub account of Almas Zaurbekov or [FoxyChmoxy](https://www.instagram.com/foxychmoxy/)
 
-[Thought Island](https://foxyblog.kz/) | [Effort Island](http://teletype.in/@foxychmoxy.it) | [Gossip Island](https://t.me/gossipisland)
-
 ## I'm a Software Engineer 👨🏻‍💻
 
 - 🔭 I’m currently working for **[Epam Systems Inc](https://github.com/epam)** and **[Microsoft](https://github.com/microsoft)**
